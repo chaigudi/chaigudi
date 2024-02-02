@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chaigudi
 - 👀 I’m interested in DevOps and OpenSource development
-- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 Reach me at @chaithugudiwada on twitter
 
